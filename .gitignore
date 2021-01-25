@@ -43,9 +43,9 @@ vignettes/*.pdf
 figures/
 AutismSpeaks_SSC.Rproj
 *.Rmd
-docs/GWAS_files
-docs/figures
-docs/impute_pipe_SSC_files
-docs/site_libs
+#docs/GWAS_files
+#docs/figures
+#docs/impute_pipe_SSC_files
+#docs/site_libs
 
 
