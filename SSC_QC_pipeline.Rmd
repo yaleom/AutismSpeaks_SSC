@@ -4,7 +4,7 @@ knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
  encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'Raw Genotype.html'))})
+ output_file=file.path(dirname(input_file), out_dir, 'SSC_QC_pipeline.html'))})
 author: "Ying Wang"
 date: "04/01/2021"
 output:

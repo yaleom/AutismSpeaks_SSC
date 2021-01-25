@@ -1,14 +1,14 @@
 name: "SSC Data Process"
-output_dir: "."
+output_dir: "docs"
 navbar:
   title: "Austim Speaks | SSC"
   right:
     - text: "Introduction"
       href: index.html
     - text: "Raw Genotype"
-      href: Raw Genotype.html
+      href: SSC_QC_pipeline.html
     - text: "Imputation"
-      href: Imputation.html
+      href: impute_pipe_SSC.html
     - text: "Phenotype"
       href: Phenotype.html
     - text: "GWAS"
