@@ -13,6 +13,8 @@ navbar:
       href: Phenotype.html
     - text: "GWAS"
       href: GWAS.html
+    - text: "Exome"
+      href: Exome.html
 
 #   - text: "Pheno"
 #      menu:
@@ -27,9 +29,9 @@ navbar:
 #      - text: "page 4"
 #        href: page4.html
 #     href: 1_Phenotype.html
-#  left:
-#    - icon: fa-github
-#      href: https://github.com/uqzqiao
+  left:
+    - icon: fa-github
+      href: https://github.com/yaleom
 #    - icon: fa-twitter
 #      href: https://twitter.com/waterallq
 
